@@ -9,3 +9,6 @@ Components :
   3.	Laser  Sensor
   4.	Buzzer Speaker for notification at environment
   5.	Web Server and Database management system
+
+![tampilan1](https://github.com/exp-technology/smart-home-IoT-and-Android/blob/master/pinpad2.png)
+![tampilan1](https://github.com/exp-technology/smart-home-IoT-and-Android/blob/master/pinpad3_1.png)
